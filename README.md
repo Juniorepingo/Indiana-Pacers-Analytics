@@ -10,6 +10,7 @@ This analytics project focuses on evaluating the Indiana Pacers' performance acr
 3. Build opponent scouting reports
 
 **Bonus Objectives:**
+
 4. Player shot charts
 5. Clutch performance analysis
 6. Team trends over time
